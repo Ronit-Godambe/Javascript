@@ -36,3 +36,4 @@ console.log(slice.slice(4,9));                  // prints 'dcrum'   --> doesn't 
 console.log(slice.slice(2));                    // prints 'eadcrumb'  -->
 console.log(slice.replace("crumb", "ball"));    // prints 'Breadball'
 
+console.log(foot.concat(" and ", slice, " are joint words"));
